@@ -16,4 +16,4 @@ Antes de executar o comando abaixo, é necessário registrar a variável de ambi
 ## Autor
 Caio Ribeiro Pereira - caio.ribeiro.pereira@gmail.com
 
-link original:(https://github.com/caio-ribeiro-pereira/sequelize-api), apenas modificado para roda com banco de dados Postgres.
+link original:(https://github.com/caio-ribeiro-pereira/sequelize-api), apenas modificado para rodar com banco de dados Postgres.
